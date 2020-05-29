@@ -17,4 +17,3 @@
 
 
 ********** THANK YOU **********
-WRITTEN BY ARPAN SAHA AND SURAJ KUMAR MODI
