@@ -1,6 +1,3 @@
-/* NAME: ARPAN SAHA ; ROLL NO: 17CS8013
-   NAME: SURAJ KUMAR MODI ; ROLL NO: 17CS8020 
-*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/types.h>
