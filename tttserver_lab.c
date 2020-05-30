@@ -130,7 +130,7 @@ int main()
 					//printf("\nsend %s\n",buffer);		
                     recv(newsocket_id,buffer,100,0);            // buffer received from server
 					//printf("\nrecieve %s\n",buffer);
-                    counter1++;	
+                  //  counter1++;	
                     if(strlen(buffer)==1)
                     {
                             if(flag_player==0)                      // checker algorithm for getting which player won
@@ -159,7 +159,7 @@ int main()
 					//printf("\nsend %s\n",buffer);
 					recv(newsocket_id,buffer,100,0);             // buffer received from server
 					//printf("\nrecieve %s\n",buffer);
-                    counter2++;
+               //     counter2++;
                     if(strlen(buffer)==1)
                     {
                             if(flag_player==0)              // checker algorithm for getting which player won
